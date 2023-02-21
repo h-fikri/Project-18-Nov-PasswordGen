@@ -113,6 +113,9 @@ var upperCasedCharacters = [
 // generating password via button click
 var generateBtn = document.querySelector("#generate");
 
+// Initial setup on variables
+var characterStore = [];
+
 // Function to prompt user for password options
 function getPasswordOptions() {
   var pwd = getPasswordOptions();
