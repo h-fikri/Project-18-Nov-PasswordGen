@@ -1,8 +1,8 @@
 # Project-18-Nov-PasswordGen
 
-Javascript Password Generator
-Repository Link: https://github.com/h-fikri/Project-18-Nov-PasswordGen/
-Deployed Link: https://h-fikri.github.io/Project-18-Nov-PasswordGen/
+- Javascript Password Generator
+- Repository Link: https://github.com/h-fikri/Project-18-Nov-PasswordGen/
+- Deployed Link: https://h-fikri.github.io/Project-18-Nov-PasswordGen/
 
 ## Task List
 
