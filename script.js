@@ -122,9 +122,8 @@ var confirmLowerCase;
 
 // Creating a function to generate the prompts for the user
 function getPasswordOptions() {
-  // This is a loop to make sure the user selects a valid password length
-  var confirmLength;
   // this while loop will continue to prompt the user until they enter a valid number
+  var confirmLength;
   while (
     !(confirmLength = prompt(
       "Password length must be a number between 10-64 characters. Please try again."
